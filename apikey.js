@@ -1,3 +1,3 @@
-const ApiKey = `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`
+const ApiKey = `` //Your ApiKey
 
 exports.ApiKey = ApiKey
