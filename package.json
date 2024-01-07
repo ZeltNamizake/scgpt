@@ -1,0 +1,18 @@
+{
+  "name": "scgpt",
+  "version": "1.0.0",
+  "description": "simple chatgpt with javascript and nodejs",
+  "main": "openai.js",
+  "scripts": {
+    "start": "node openai.js"
+  },
+  "keywords": ["chatgpt","openai","simplechatgpt"],
+  "author": "ZeltNamizake",
+  "license": "ISC",
+  "dependencies": {
+    "clear-console": "^1.1.0",
+    "figlet": "^1.7.0",
+    "openai": "^4.24.1",
+    "readline": "^1.3.0"
+  }
+}
