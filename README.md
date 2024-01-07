@@ -23,7 +23,7 @@ You only need Git and NodeJs to run this program
 ### API Key OpenAI
 You can get API Keys at https://platform.openai.com/api-keys
 
-Enter API Keys in `apikey.js`
+Enter API Keys in file  `apikey.js`
 ```javascript
 const ApiKey = "" //Your APIKey
 exports.ApiKey = ApiKey
